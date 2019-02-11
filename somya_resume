@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>My Resume</title>
+
+   </head>
+
+<body>
+<center>
+      <img src = "200px-Kellton_tech_logo.png" alt = "Logo" align="middle" />
+
+<p>
+<h3>
+<b>somya golchha
+</b></h3></p>
+<hr>
+<p><h3>
+<b>SOFTWARE ENGINEER-TRAINEE</b></h3></p>
+</center>
+<p><h4>SOMYA GOLCHHA<br> University Of Petroleum and Energy Stusies<br>Dehradun,Uttarakhand<br>Phone:8449104551<br>Email:golchhasomya@gmail.com </h4>
+<hr>
+<h2>
+<div style="background-color:gray;color:white;padding:05px;">
+<u>CAREER OBJECTIVE</u></div>
+</h2>
+<h4>I am seeking for a position that will utilize my skills and offer me an opportunity to grow and contribute to the organization.</h4>
+
+<h2>
+<div style="background-color:gray;color:white;padding:05px;">
+<u>ACADEMIC QUALIFICATION</u></div></h2>
+<table border = 5 width=1000>
+<tr>
+	<th>Qualification</th>
+	<th>University</th>
+	<th>Year of joining</th>
+	<th>Year of passing</th>
+	<th>cgpa</th>
+</tr>
+<tr>
+	<th>B.tech</th>
+	<th>UPES</th>
+	<th>2015</th>
+	<th>2019</th>
+	<th>7.01</th>
+</tr>
+<tr>
+	<th>12th</th>
+	<th>M.E.S.S.S</th>
+	<th>2014</th>
+	<th>2015</th>
+	<th>7.8</th>
+</tr>
+<tr>
+	<th>10th</th>
+	<th>M.E.S.S.S</th>
+	<th>2011</th>
+	<th>2012</th>
+	<th>9.0</th>
+</tr>
+</table><h2>
+<div style="background-color:gray;color:white;padding:05px;">
+<u>PROJECTS</u></div></h2>
+<table border = 5 width=1000>
+<tr>
+	<th>Project-Title</th>
+	<th>Description</th>
+	<th>Duration</th>
+</tr>
+<tr>
+	<th>Loan prediction based on cibil score</th>
+	<th>The project involved calculating the credit score by using the different factors.</th>
+	<th>4months</th>	
+</tr>
+<tr>
+	<th>Reckoning and comparing factors using image compression</th>
+	<th>this project involved compression of image using different quality factor and calculating different value like MSE and PSNR</th>
+	<th>4months</th>
+	
+</tr>
+
+<tr>
+	<th>GeoQpons</th>
+	<th>Main objective of this project was to built an android app name GeoQpon where there are different types of coupons for shopping,eating,travelling etc. </th>
+	<th>4months</th>
+	
+</tr>
+</table>
+<h2>
+<div style="background-color:gray;color:white;padding:05px;">
+<u>ACHIEVEMENTS</u></div></h2>
+<ul>
+<h4>
+<b>
+<li>Core Committee Member-CSI,student chapter</li>
+<li>Attended e-summit at IIT-Kanpur</li>
+<li>Partcipated in 'the webinar session on Android App Development'.</li>
+<li>Member of ACM-student chapter </li>
+<li>Member of Smart analyzer-student chapter</li>
+
+</b>
+</h4>
+</ul>
+<h2>
+<div style="background-color:gray;color:white;padding:05px;">
+<u>PERSONAL-DETAILS</u></div></h2>
+<ul>
+<h4>
+<b>
+<li>Name	  : Somya Golchha</li>
+<li>DOB 	  : 25-OCT-1996</li>
+<li>Father's Name : Narendra Golchha </li>
+<li>Mother's Name : Anita Golchha</li>
+<li>Hobbies 	  : sketching,reading,travelling</li>
+</b>
+</h4>
+</ul>
+
+
+  </body>
+<style>
+h3{
+text-transform:uppercase;
+}
+h3{
+text-transform:uppercase;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+
+</html>
